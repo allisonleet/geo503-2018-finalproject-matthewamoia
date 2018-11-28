@@ -18,7 +18,7 @@ Materials-
 Data: Occurence data for the spotted turtle will come from the Global Biodiversity Information Facility (GBIF), and the wetlands data will come from the US Fish and Wildlife Service National Wetlands Inventory. 
 
 Methods: 
-
+    
 * Visualize the occurence of spotted turtles.
 * Visualize the presence of wetlands and their dynamic changes.
 * Correlate and overlay these occurences to understand and potenially provide insight into where spotted turtles are found, and where they may be found based on the changing dynamics of the nations wetlands. 
